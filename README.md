@@ -10,4 +10,4 @@ If you go to admin site then you can add some item or products our website for s
 
 Thank You...
 
-Here our have site live link: 
+Here our have site live link: https://hr-dailyshop.web.app 
