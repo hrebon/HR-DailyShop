@@ -1,0 +1,14 @@
+.header{
+    margin-left: 100px;
+    display: flex;
+    margin-bottom:10px;
+}
+.link{
+    margin-right:10px;
+}
+.link a{
+    text-decoration:none;
+}
+.top{
+    border-bottom: 1px solid black;
+}

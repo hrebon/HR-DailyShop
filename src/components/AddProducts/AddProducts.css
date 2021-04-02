@@ -1,0 +1,32 @@
+
+
+.main-form{
+    border: 1 solid transparent;
+    background-color:seashell;
+    width: 60%;
+    box-shadow: 5px 5px 5px;
+    margin-left: 200px;
+    height: 300px;
+    margin-top: 20px;
+}
+
+.partOne{
+    display: flex;
+    margin: 10px;
+    margin-left: 100px;
+}
+.partTwo{
+    display: flex;
+    margin: 5px;
+    margin-left: 100px;
+}
+.name{
+    margin-right: 50px;
+}
+.price{
+    margin-right: 50px;
+}
+.submit{
+    margin: 10px;
+    margin-left: 100px;
+}
