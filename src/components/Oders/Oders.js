@@ -27,6 +27,7 @@ const Oders = () => {
                     <th>Product Name</th>
                     <th>weight</th>
                     <th>Price</th>
+                    
                 </tr>
             
             {
