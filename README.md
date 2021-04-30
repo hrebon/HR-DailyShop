@@ -3,8 +3,8 @@ User can buy product in this website.
 <h1>Technology</h1>
 JavaScript, React, Node.js, Express.js, Bootstrap, MongoDB, Firebase Authentication, Stripe.js, Heroku.
 <h1>Installation Guide</h1>
-1.Create-react-app HR-daily-Shop
-2.npm install react-bootstrap bootstrap
+1.Create-react-app HR-daily-Shop<br>
+2.npm install react-bootstrap bootstrap<br>
 3.npm install --save react-router-dom
 <h1>Overview</h1>
 Welcome!!!!!!!!
